@@ -92,7 +92,8 @@
                     "1/4 tsp salt",
                     "8 corn tortillas"
                 ],
-                "method": "Preheat a grill or grill pan to medium-high heat. In a medium bowl, combine the shrimp, olive oil, chili powder, cumin, smoked paprika, cayenne pepper, garlic powder, and salt. Toss to coat the shrimp. Grill the shrimp for 2-3 minutes per side, or until cooked through. Warm the tortillas on the grill or in a dry skillet over medium heat. Assemble the tacos by placing 2-3 shrimp on each tortilla, along with some shredded red cabbage, avocado slices, and chopped cilantro."
+                "method": "Preheat a grill or grill pan to medium-high heat. In a medium bowl, combine the shrimp, olive oil, chili powder, cumin, smoked paprika, cayenne pepper, garlic powder, and salt. Toss to coat the shrimp. Grill the shrimp for 2-3 minutes per side, or until cooked through. Warm the tortillas on the grill or in a dry skillet over medium heat. Assemble the tacos by placing 2-3 shrimp on each tortilla, along with some shredded red cabbage, avocado slices, and chopped cilantro.",
+                "rating": 4.2
             },
             {
                 "id": 203,
@@ -108,6 +109,63 @@
                     "Salt and pepper, to taste"
                 ],
                 "method": "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper. In a small bowl, whisk together the honey, Dijon mustard, whole grain mustard, olive oil, garlic, and dried thyme. Season the salmon fillets with salt and pepper, and place them skin-side down on the prepared baking sheet. Brush the honey mustard glaze over the top of each fillet, covering it evenly. Bake the salmon for 12-15 minutes",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefName": "Jamie Oliver",
+        "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his approachable style of cooking and his campaign to improve school food in the UK",
+        "image": "https://media.istockphoto.com/id/951132442/photo/mastering-new-culinary-heights.jpg?s=612x612&w=0&k=20&c=96kg8oMcQ1VlItWhwRI69aAO_CWiZjHvNuvNYPiE59M=",
+        "yearsOfExperience": 5,
+        "likes": 600,
+        "recipes": [
+            {
+                "id": 301,
+                "name": "Vegetarian Pad Thai",
+                "ingredients": [
+                    "8 oz pad Thai noodles",
+                    "1/4 cup vegetable oil",
+                    "1 block extra-firm tofu, pressed and cubed",
+                    "2 garlic cloves, minced",
+                    "1/2 cup chopped scallions",
+                    "2 eggs, beaten",
+                    "1/4 cup soy sauce",
+                    "2 tbsp brown sugar"
+                ],
+                "method": "Cook the pad Thai noodles according to package instructions. Drain and set aside. Heat the vegetable oil in a large skillet over medium-high heat. Add the tofu cubes and cook until golden brown on all sides, about 5-7 minutes.Remove the tofu from the skillet and set aside. In the same skillet, add the garlic and scallions and cook for 1-2 minutes, stirring constantly. Push the garlic and scallions to one side of the skillet and add the beaten eggs to the other side. Cook the eggs until set",
+                "rating": 4.5
+            },
+            {
+                "id": 302,
+                "name": "Pesto Grilled Cheese Sandwich",
+                "ingredients": [
+                    "4 slices bread",
+                    "4 slices mozzarella cheese",
+                    "4 tbsp pesto sauce",
+                    "2 tbsp butter",
+                    "1/4 tsp salt",
+                    "8 corn tortillas"
+                ],
+                "method": "Spread 1 tablespoon of pesto sauce on each slice of bread. Place a slice of mozzarella cheese on 2 slices of bread and top with the remaining slices of bread.. Heat a non-stick pan over medium heat.Spread 1/2 tablespoon of butter on the outside of each sandwich. Place the sandwiches in the pan and cook until golden brown on one side, about 2-3 minutes. Flip the sandwiches over and cook until the cheese is melted and the other side is golden brown, about 2-3 minutes more.",
+                "rating": 4.2
+            },
+            {
+                "id": 303,
+                "name": "Greek Chicken Skewers",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breast, cut into 1-inch pieces",
+                    "1/4 cup olive oil",
+                    "1/4 cup lemon juice",
+                    "2 tbsp red wine vinegar",
+                    "2 garlic cloves, minced",
+                    "1 tsp dried oregano",
+                    "1 tsp dried thyme",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper"
+                ],
+                "method": "In a large bowl, whisk together olive oil, lemon juice, red wine vinegar, garlic, oregano, thyme, salt, and black pepper. Add chicken pieces to the bowl and toss to coat evenly. Cover and marinate in the refrigerator for at least 30 minutes or up to 4 hours. Preheat grill to medium-high heat. Thread chicken pieces, red onion, and bell pepper onto skewers, alternating as desired.Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through and vegetables are tender.",
                 "rating": 4.5
             }
         ]
