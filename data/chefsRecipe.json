@@ -52,5 +52,64 @@
                 "rating": 4.5
             }
         ]
+    },
+    {
+        "id": 2,
+        "chefName": "Julia Child",
+        "bio": "Julia Child was an American chef, author, and television personality. She is credited with bringing French cuisine to the American public with her cookbook, Mastering the Art of French Cooking, and her popular cooking show",
+        "image": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
+        "yearsOfExperience": 4,
+        "likes": 500,
+        "recipes": [
+            {
+                "id": 201,
+                "name": "Mushroom and Truffle Risotto",
+                "ingredients": [
+                    "1 cup Arborio rice",
+                    "4 cups chicken or vegetable broth",
+                    "2 tbsp butter",
+                    "1 onion, chopped",
+                    "3 cloves garlic, minced",
+                    "8 oz mushrooms, sliced",
+                    "1/4 cup white wine",
+                    "1/4 cup grated parmesan cheese",
+                    "2 tbsp truffle oil"
+                ],
+                "method": "In a large pot, heat the broth over medium heat and keep it warm. In a separate large pot, melt the butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes. Add the mushrooms and cook until they release their liquid and begin to brown, about 8 minutes. Add the Arborio rice and stir to coat in the butter and mushroom mixture. Add the white wine and stir until it is absorbed by the rice.\n6. Begin adding the warm broth to the rice, about 1 cup at a time, stirring frequently and allowing the rice to absorb the broth before adding more.",
+                "rating": 4.5
+            },
+            {
+                "id": 202,
+                "name": "Spicy Grilled Shrimp Tacos",
+                "ingredients": [
+                    "1 lb large shrimp, peeled and deveined",
+                    "1 tbsp olive oil",
+                    "1 tbsp chili powder",
+                    "1/2 tsp cumin",
+                    "1/2 tsp smoked paprika",
+                    "1/4 tsp cayenne pepper",
+                    "1/4 tsp garlic powder",
+                    "1/4 tsp salt",
+                    "8 corn tortillas"
+                ],
+                "method": "Preheat a grill or grill pan to medium-high heat. In a medium bowl, combine the shrimp, olive oil, chili powder, cumin, smoked paprika, cayenne pepper, garlic powder, and salt. Toss to coat the shrimp. Grill the shrimp for 2-3 minutes per side, or until cooked through. Warm the tortillas on the grill or in a dry skillet over medium heat. Assemble the tacos by placing 2-3 shrimp on each tortilla, along with some shredded red cabbage, avocado slices, and chopped cilantro."
+            },
+            {
+                "id": 203,
+                "name": "Honey Mustard Glazed Salmon",
+                "ingredients": [
+                    "4 salmon fillets, skin on",
+                    "1/4 cup honey",
+                    "2 tbsp Dijon mustard",
+                    "2 tbsp whole grain mustard",
+                    "1 tbsp olive oil",
+                    "2 cloves garlic, minced",
+                    "1 tsp dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "method": "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper. In a small bowl, whisk together the honey, Dijon mustard, whole grain mustard, olive oil, garlic, and dried thyme. Season the salmon fillets with salt and pepper, and place them skin-side down on the prepared baking sheet. Brush the honey mustard glaze over the top of each fillet, covering it evenly. Bake the salmon for 12-15 minutes",
+                "rating": 4.5
+            }
+        ]
     }
 ]
