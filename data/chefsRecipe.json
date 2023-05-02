@@ -169,5 +169,65 @@
                 "rating": 4.5
             }
         ]
-    }
+    },
+    {
+        "id": 4,
+        "chefName": "Ina Garten",
+        "bio": "Ina Garten is an American chef, author, and television personality. She is known for her simple, elegant recipes and her show, Barefoot Contessa",
+        "image": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&w=1000&q=80",
+        "yearsOfExperience": 4,
+        "likes": 400,
+        "recipes": [
+            {
+                "id": 401,
+                "name": "Thai Red Curry with Vegetables",
+                "ingredients": [
+                    "1 can coconut milk",
+                    "2 tbsp Thai red curry paste",
+                    "1 tbsp vegetable oil",
+                    "1 small onion, diced",
+                    "2 garlic cloves, minced",
+                    "1 red bell pepper, sliced",
+                    "1 yellow bell pepper, sliced"
+                ],
+                "method": "In a large pot, heat vegetable oil over medium-high heat. Add onion and garlic and cook until softened, about 2 minutes. Add Thai red curry paste and cook for 1 minute, stirring constantly. Add coconut milk and stir to combine. Add red bell pepper, yellow bell pepper, zucchini, and mushrooms and stir to combine. Add brown sugar, fish sauce, and lime juice and stir to combine. Bring the mixture to a simmer and cook for 10-15 minutes, until the vegetables are tender and the flavors have melded together. Remove from heat and stir in chopped cilantro.",
+                "rating": 4.5
+            },
+            {
+                "id": 402,
+                "name": "Grilled Salmon with Mango Salsa",
+                "ingredients": [
+                    "4 salmon fillets (6 oz each)",
+                    "1 tbsp olive oil",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "2 mangoes, diced",
+                    "1 small red onion, diced",
+                    "1 red bell pepper, diced",
+                    "1 jalapeño pepper, seeded and minced",
+                    "2 tbsp chopped fresh cilantro"
+                ],
+                "method": "Preheat grill to medium-high heat. Brush salmon fillets with olive oil and sprinkle with salt and black pepper.. Grill salmon for 5-6 minutes per side, until cooked through. While the salmon is cooking, make the mango salsa. In a medium bowl, combine diced mangoes, red onion, red bell pepper, jalapeño pepper, chopped cilantro, and lime juice. Toss to combine and season with salt to taste.",
+                "rating": 4.2
+            },
+            {
+                "id": 403,
+                "name": "Creamy Garlic Mushroom Chicken",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 tbsp olive oil",
+                    "8 oz sliced mushrooms",
+                    "3 cloves garlic, minced",
+                    "1/2 cup chicken broth",
+                    "1/2 cup heavy cream",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tbsp chopped fresh parsley",
+                    "1/2 tsp salt"
+                ],
+                "method": "Preheat oven to 375°F (190°C). Season chicken breasts with salt and black pepper. Heat olive oil in an oven-safe skillet over medium-high heat.\n4. Add chicken breasts and cook for 4-5 minutes per side, until golden brown. Remove chicken from skillet and set aside. In the same skillet, add sliced mushrooms and garlic and cook for 2-3 minutes, until mushrooms are tender. Add chicken broth and bring to a simmer, scraping up any browned bits from the bottom of the skillet. Add heavy cream and Parmesan cheese and stir to combine",
+                "rating": 4.5
+            }
+        ]
+    },
+    
 ]
