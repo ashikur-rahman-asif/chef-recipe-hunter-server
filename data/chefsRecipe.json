@@ -6,6 +6,7 @@
         "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
         "yearsOfExperience": 5,
         "likes": 400,
+        "numberOfRecipes":20,
         "recipes": [
             {
                 "id": 101,
@@ -63,6 +64,7 @@
         "image": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
         "yearsOfExperience": 4,
         "likes": 500,
+        "numberOfRecipes":30,
         "recipes": [
             {
                 "id": 201,
@@ -126,6 +128,7 @@
         "image": "https://media.istockphoto.com/id/951132442/photo/mastering-new-culinary-heights.jpg?s=612x612&w=0&k=20&c=96kg8oMcQ1VlItWhwRI69aAO_CWiZjHvNuvNYPiE59M=",
         "yearsOfExperience": 5,
         "likes": 600,
+        "numberOfRecipes":40,
         "recipes": [
             {
                 "id": 301,
@@ -186,6 +189,7 @@
         "image": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&w=1000&q=80",
         "yearsOfExperience": 4,
         "likes": 400,
+        "numberOfRecipes":50,
         "recipes": [
             {
                 "id": 401,
@@ -248,6 +252,7 @@
         "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/3/2021/06/01125429/129305145_378999043204329_6799470558229249305_n.jpg",
         "yearsOfExperience": 5,
         "likes": 500,
+        "numberOfRecipes":30,
         "recipes": [
             {
                 "id": 501,
@@ -312,6 +317,7 @@
         "image": "https://www.sandiego.org/-/media/images/sdta-site/campaigns/sunny-7/award-winning-food/william-bradley-addison-del-mar.jpg?h=486&la=en&w=727",
         "yearsOfExperience": 6,
         "likes": 500,
+        "numberOfRecipes":20,
         "recipes": [
             {
                 "id": 601,
