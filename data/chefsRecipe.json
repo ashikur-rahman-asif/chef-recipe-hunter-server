@@ -10,6 +10,7 @@
             {
                 "id": 101,
                 "name": "Spicy Korean Fried Chicken",
+                "thumbnail":"https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Korean-Fried-Chicken-square-FS-New-7377.jpg",
                 "ingredients": [
                     "1 lb chicken wings",
                     "1/2 cup flour",
@@ -24,6 +25,7 @@
             {
                 "id": 102,
                 "name": "Spinach and Ricotta Stuffed Shells",
+                "thumbnail":"https://www.forkknifeswoon.com/wp-content/uploads/2013/05/StuffedShellswithSpinachRicotta5-ThumbWEB.jpg",
                 "ingredients": [
                     "1 box jumbo pasta shells",
                     "15 oz ricotta cheese",
@@ -39,6 +41,7 @@
             {
                 "id": 103,
                 "name": "Teriyaki Glazed Salmon",
+                "thumbnail":"https://belleofthekitchen.com/wp-content/uploads/2017/03/teriyaki-glazed-salmon-square.jpg",
                 "ingredients": [
                     "4 salmon fillets",
                     "1/2 cup soy sauce",
@@ -64,6 +67,7 @@
             {
                 "id": 201,
                 "name": "Mushroom and Truffle Risotto",
+                "thumbnail":"https://marleysmenu.com/wp-content/uploads/2020/09/Gourmet-Truffle-Mushroom-Risotto-Featured-Image-1.jpg",
                 "ingredients": [
                     "1 cup Arborio rice",
                     "4 cups chicken or vegetable broth",
@@ -81,6 +85,7 @@
             {
                 "id": 202,
                 "name": "Spicy Grilled Shrimp Tacos",
+                "thumbnail":"https://bowl-me-over.com/wp-content/uploads/2020/05/Grilled-Shrimp-Tacos.jpg",
                 "ingredients": [
                     "1 lb large shrimp, peeled and deveined",
                     "1 tbsp olive oil",
@@ -98,6 +103,7 @@
             {
                 "id": 203,
                 "name": "Honey Mustard Glazed Salmon",
+                "thumbnail":"https://ascania-pack.com/assets/media/losos_largeThumb.jpg",
                 "ingredients": [
                     "4 salmon fillets, skin on",
                     "1/4 cup honey",
@@ -124,6 +130,7 @@
             {
                 "id": 301,
                 "name": "Vegetarian Pad Thai",
+                "thumbnail":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/10/0/FNK_Vegetarian-Tofu-Pad-Thai_H2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1568385716096.jpeg",
                 "ingredients": [
                     "8 oz pad Thai noodles",
                     "1/4 cup vegetable oil",
@@ -140,6 +147,7 @@
             {
                 "id": 302,
                 "name": "Pesto Grilled Cheese Sandwich",
+                "thumbnail":"https://www.allrecipes.com/thmb/xnKVOdWRwnrp_bqBOa-7Lbknd1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4543319-e5e16e390d994cd5acdba6d4fd3a5b08.jpg",
                 "ingredients": [
                     "4 slices bread",
                     "4 slices mozzarella cheese",
@@ -154,6 +162,7 @@
             {
                 "id": 303,
                 "name": "Greek Chicken Skewers",
+                "thumbnail":"https://cookingformysoul.com/wp-content/uploads/2022/08/feat-greek-chicken-kabobs-min.jpg",
                 "ingredients": [
                     "1 lb boneless, skinless chicken breast, cut into 1-inch pieces",
                     "1/4 cup olive oil",
@@ -181,6 +190,7 @@
             {
                 "id": 401,
                 "name": "Thai Red Curry with Vegetables",
+                "thumbnail":"https://abraskitchen.com/wp-content/uploads/Thai-Red-Vegetable-Curry-4.jpg",
                 "ingredients": [
                     "1 can coconut milk",
                     "2 tbsp Thai red curry paste",
@@ -196,6 +206,7 @@
             {
                 "id": 402,
                 "name": "Grilled Salmon with Mango Salsa",
+                "thumbnail":"https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1713-diabetic-grilled-salmon-mango-tomato-salsa_Superfoods-Cookbook_DFJulAug19_062019_3885281428.jpg",
                 "ingredients": [
                     "4 salmon fillets (6 oz each)",
                     "1 tbsp olive oil",
@@ -213,6 +224,7 @@
             {
                 "id": 403,
                 "name": "Creamy Garlic Mushroom Chicken",
+                "thumbnail":"https://www.budgetbytes.com/wp-content/uploads/2017/01/Creamy-Garlic-Mushroom-Chicken-close.jpg",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1 tbsp olive oil",
@@ -225,7 +237,7 @@
                     "1/2 tsp salt"
                 ],
                 "method": "Preheat oven to 375°F (190°C). Season chicken breasts with salt and black pepper. Heat olive oil in an oven-safe skillet over medium-high heat.\n4. Add chicken breasts and cook for 4-5 minutes per side, until golden brown. Remove chicken from skillet and set aside. In the same skillet, add sliced mushrooms and garlic and cook for 2-3 minutes, until mushrooms are tender. Add chicken broth and bring to a simmer, scraping up any browned bits from the bottom of the skillet. Add heavy cream and Parmesan cheese and stir to combine",
-                "rating": 4.5
+                "rating": 4.2
             }
         ]
     },
@@ -240,6 +252,7 @@
             {
                 "id": 501,
                 "name": "Roasted Butternut Squash Soup",
+                "thumbnail":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/12/13/0/FNM_020110BTS-Ina-Garten-017_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382539270611.jpeg",
                 "ingredients": [
                     "1 large butternut squash, peeled and diced",
                     "1 onion, chopped",
@@ -257,6 +270,7 @@
             {
                 "id": 502,
                 "name": "Mushroom and Spinach Stuffed Chicken Breast",
+                "thumbnail":"https://www.theroastedroot.net/wp-content/uploads/2021/08/stuffed-chicken-breast-6-720x720.jpg",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1 tbsp olive oil",
@@ -274,6 +288,7 @@
             {
                 "id": 503,
                 "name": "Vegetarian Lentil Soup",
+                "thumbnail":"https://iheartvegetables.com/wp-content/uploads/2021/02/Mediterranean-Lentil-Soup-8-of-15.jpg",
                 "ingredients": [
                     "1 cup green lentils, rinsed and drained",
                     "1 onion, chopped",
@@ -286,6 +301,68 @@
                     "1 tsp smoked paprika"
                 ],
                 "method": "In a large pot or Dutch oven, heat olive oil over medium-high heat. Add chopped onion, carrots, and celery and cook for 5-7 minutes, until vegetables are tender. Add minced garlic and cook for an additional 1-2 minutes, until fragrant. Add rinsed and drained lentils, vegetable broth, ground cumin, smoked paprika, ground coriander, dried thyme, salt, and black pepper. Bring to a simmer and cook for 25-30 minutes, until lentils are tender and soup is thick and flavorful",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefName": "Nigella Lawson",
+        "bio": "Nigella Lawson is a British chef, author, and television personality. She is known for her relaxed approach to cooking and her love of comfort food. She has hosted several cooking shows and written numerous cookbooks.",
+        "image": "https://www.sandiego.org/-/media/images/sdta-site/campaigns/sunny-7/award-winning-food/william-bradley-addison-del-mar.jpg?h=486&la=en&w=727",
+        "yearsOfExperience": 6,
+        "likes": 500,
+        "recipes": [
+            {
+                "id": 601,
+                "name": "Quinoa Stuffed Bell Peppers",
+                "thumbnail":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/1/17/1/WR0503H_quinoa-and-vegetable-stuffed-peppers-recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1433671247298.jpeg",
+                "ingredients": [
+                    "4 bell peppers, halved and seeded",
+                    "1 cup quinoa, rinsed and drained",
+                    "2 cups vegetable broth",
+                    "1 onion, chopped",
+                    "3 cloves garlic, minced",
+                    "1 zucchini, diced",
+                    "1 red bell pepper, diced",
+                    "1 can black beans, drained and rinsed",
+                    "1 cup frozen corn kernels",
+                    "1 tsp ground cumin"
+                ],
+                "method": "Preheat oven to 400°F (200°C). In a large bowl, toss diced butternut squash with chopped onion, minced garlic, and olive oil. Spread mixture out onto a baking sheet and roast in the preheated oven for 25-30 minutes, until squash is tender and caramelized. Transfer roasted squash and onion mixture to a large pot. Add chicken broth, cinnamon, nutmeg, salt, and black pepper. Bring to a simmer and cook for 15-20 minutes, until flavors are blended. Use an immersion blender",
+                "rating": 4.5
+            },
+            {
+                "id": 602,
+                "name": "Spinach and Ricotta Stuffed Shells",
+                "thumbnail":"https://www.forkknifeswoon.com/wp-content/uploads/2013/05/StuffedShellswithSpinachRicotta5-ThumbWEB.jpg",
+                "ingredients": [
+                    "1 box jumbo pasta shells",
+                    "15 oz ricotta cheese",
+                    "1 cup grated parmesan cheese",
+                    "1 egg",
+                    "1/2 cup frozen spinach, thawed and drained",
+                    "1 tsp garlic powder",
+                    "1/2 tsp salt"
+                ],
+                "method": "Preheat oven to 375°F. Cook the jumbo pasta shells according to package instructions. In a large bowl, mix together ricotta cheese, parmesan cheese, egg, spinach, garlic powder, salt, and black pepper. Stuff the cooked shells with the cheese mixture and place them in a baking dish. Pour marinara sauce over the stuffed shells and top with shredded mozzarella cheese. Cover with foil and bake for 25-30 minutes. Remove the foil and bake for an additional 5-10 minutes, until the cheese is melted and bubbly.",
+                "rating": 4.2
+            },
+            {
+                "id": 603,
+                "name": "Honey Mustard Glazed Salmon",
+                "thumbnail":"https://ascania-pack.com/assets/media/losos_largeThumb.jpg",
+                "ingredients": [
+                    "4 salmon fillets, skin on",
+                    "1/4 cup honey",
+                    "2 tbsp Dijon mustard",
+                    "2 tbsp whole grain mustard",
+                    "1 tbsp olive oil",
+                    "2 cloves garlic, minced",
+                    "1 tsp dried thyme",
+                    "Salt and pepper, to taste"
+                ],
+                "method": "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper. In a small bowl, whisk together the honey, Dijon mustard, whole grain mustard, olive oil, garlic, and dried thyme. Season the salmon fillets with salt and pepper, and place them skin-side down on the prepared baking sheet. Brush the honey mustard glaze over the top of each fillet, covering it evenly. Bake the salmon for 12-15 minutes",
                 "rating": 4.5
             }
         ]
