@@ -229,5 +229,65 @@
             }
         ]
     },
-    
+    {
+        "id": 5,
+        "chefName": "Anthony Bourdain",
+        "bio": "Anthony Bourdain was an American chef, author, and television personality. He rose to fame with his book, Kitchen Confidential, and went on to host several travel and food shows, including No Reservations and Parts Unknown.",
+        "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/3/2021/06/01125429/129305145_378999043204329_6799470558229249305_n.jpg",
+        "yearsOfExperience": 5,
+        "likes": 500,
+        "recipes": [
+            {
+                "id": 501,
+                "name": "Roasted Butternut Squash Soup",
+                "ingredients": [
+                    "1 large butternut squash, peeled and diced",
+                    "1 onion, chopped",
+                    "4 cloves garlic, minced",
+                    "2 tbsp olive oil",
+                    "4 cups chicken broth",
+                    "1/2 cup heavy cream",
+                    "1 tsp ground cinnamon",
+                    "1/4 tsp ground nutmeg",
+                    "1/2 tsp salt"
+                ],
+                "method": "Preheat oven to 400°F (200°C). In a large bowl, toss diced butternut squash with chopped onion, minced garlic, and olive oil. Spread mixture out onto a baking sheet and roast in the preheated oven for 25-30 minutes, until squash is tender and caramelized. Transfer roasted squash and onion mixture to a large pot. Add chicken broth, cinnamon, nutmeg, salt, and black pepper. Bring to a simmer and cook for 15-20 minutes, until flavors are blended. Use an immersion blender",
+                "rating": 4.5
+            },
+            {
+                "id": 502,
+                "name": "Mushroom and Spinach Stuffed Chicken Breast",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 tbsp olive oil",
+                    "8 oz sliced mushrooms",
+                    "2 cups fresh spinach leaves",
+                    "3 cloves garlic, minced",
+                    "1/2 cup shredded mozzarella cheese",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tbsp chopped fresh parsley",
+                    "1/2 tsp salt"
+                ],
+                "method": "Preheat oven to 375°F (190°C). Season chicken breasts with salt and black pepper. In a large skillet, heat olive oil over medium-high heat. Add sliced mushrooms and cook for 2-3 minutes, until tender. Add spinach leaves and garlic and cook for an additional 1-2 minutes, until spinach is wilted. Remove skillet from heat and stir in shredded mozzarella and grated Parmesan cheese.",
+                "rating": 4.2
+            },
+            {
+                "id": 503,
+                "name": "Vegetarian Lentil Soup",
+                "ingredients": [
+                    "1 cup green lentils, rinsed and drained",
+                    "1 onion, chopped",
+                    "3 carrots, peeled and chopped",
+                    "3 stalks celery, chopped",
+                    "4 cloves garlic, minced",
+                    "2 tbsp olive oil",
+                    "8 cups vegetable broth",
+                    "2 tsp ground cumin",
+                    "1 tsp smoked paprika"
+                ],
+                "method": "In a large pot or Dutch oven, heat olive oil over medium-high heat. Add chopped onion, carrots, and celery and cook for 5-7 minutes, until vegetables are tender. Add minced garlic and cook for an additional 1-2 minutes, until fragrant. Add rinsed and drained lentils, vegetable broth, ground cumin, smoked paprika, ground coriander, dried thyme, salt, and black pepper. Bring to a simmer and cook for 25-30 minutes, until lentils are tender and soup is thick and flavorful",
+                "rating": 4.5
+            }
+        ]
+    }
 ]
