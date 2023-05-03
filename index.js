@@ -9,7 +9,12 @@ app.get('/', (req, res) => {
 })
 app.get("/chefs", (req, res) => {
     res.send(chefs);
-  });
+});
+app.get('/recipes/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedChef = chefs.find(c => c.id === id);
+  res.send(selectedChef);
+})
 app.listen(port, () => {
     console.log(`The chefs recipe api server running,,,' ${port}`);
 })
